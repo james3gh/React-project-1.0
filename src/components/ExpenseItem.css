@@ -1,0 +1,27 @@
+.wrap {
+  background-color: darkorchid;
+  border: 1px solid red;
+  margin: 15px 5px;
+  padding: 13px;
+  border-radius: 10px;
+  color: white;
+  font-size: 25px;
+  align-items: center;
+}
+.priceBtn {
+  border: 1px solid white;
+  padding: 5px 10px;
+  width: auto;
+  border-radius: 8px;
+  text-align: right;
+  background-color: tomato;
+}
+/* .click {
+  border-radius: 10px;
+  background-color: darkorange;
+  padding: 3px 8px;
+  box-shadow: darkorange;
+}
+input {
+  width: 83px;
+} */
